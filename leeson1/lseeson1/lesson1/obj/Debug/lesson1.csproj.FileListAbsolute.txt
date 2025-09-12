@@ -1,0 +1,9 @@
+H:\c#\leeson1\lseeson1\lesson1\bin\Debug\lesson1.dll
+H:\c#\leeson1\lseeson1\lesson1\bin\Debug\lesson1.pdb
+H:\c#\leeson1\lseeson1\lesson1\bin\Debug\Shapes.dll
+H:\c#\leeson1\lseeson1\lesson1\bin\Debug\Shapes.pdb
+H:\c#\leeson1\lseeson1\lesson1\obj\Debug\lesson1.csproj.AssemblyReference.cache
+H:\c#\leeson1\lseeson1\lesson1\obj\Debug\lesson1.csproj.CoreCompileInputs.cache
+H:\c#\leeson1\lseeson1\lesson1\obj\Debug\lesson1.csproj.Up2Date
+H:\c#\leeson1\lseeson1\lesson1\obj\Debug\lesson1.dll
+H:\c#\leeson1\lseeson1\lesson1\obj\Debug\lesson1.pdb

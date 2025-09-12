@@ -1,0 +1,6 @@
+H:\c#\leeson1\lseeson1\Shapes\bin\Debug\Shapes.dll
+H:\c#\leeson1\lseeson1\Shapes\bin\Debug\Shapes.pdb
+H:\c#\leeson1\lseeson1\Shapes\obj\Debug\Shapes.csproj.AssemblyReference.cache
+H:\c#\leeson1\lseeson1\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+H:\c#\leeson1\lseeson1\Shapes\obj\Debug\Shapes.dll
+H:\c#\leeson1\lseeson1\Shapes\obj\Debug\Shapes.pdb

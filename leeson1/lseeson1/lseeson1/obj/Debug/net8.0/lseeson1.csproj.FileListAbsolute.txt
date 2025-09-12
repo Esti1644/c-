@@ -1,0 +1,14 @@
+H:\c#\leeson1\lseeson1\lseeson1\bin\Debug\net8.0\lseeson1.exe
+H:\c#\leeson1\lseeson1\lseeson1\bin\Debug\net8.0\lseeson1.deps.json
+H:\c#\leeson1\lseeson1\lseeson1\bin\Debug\net8.0\lseeson1.runtimeconfig.json
+H:\c#\leeson1\lseeson1\lseeson1\bin\Debug\net8.0\lseeson1.dll
+H:\c#\leeson1\lseeson1\lseeson1\bin\Debug\net8.0\lseeson1.pdb
+H:\c#\leeson1\lseeson1\lseeson1\obj\Debug\net8.0\lseeson1.GeneratedMSBuildEditorConfig.editorconfig
+H:\c#\leeson1\lseeson1\lseeson1\obj\Debug\net8.0\lseeson1.AssemblyInfoInputs.cache
+H:\c#\leeson1\lseeson1\lseeson1\obj\Debug\net8.0\lseeson1.AssemblyInfo.cs
+H:\c#\leeson1\lseeson1\lseeson1\obj\Debug\net8.0\lseeson1.csproj.CoreCompileInputs.cache
+H:\c#\leeson1\lseeson1\lseeson1\obj\Debug\net8.0\lseeson1.dll
+H:\c#\leeson1\lseeson1\lseeson1\obj\Debug\net8.0\refint\lseeson1.dll
+H:\c#\leeson1\lseeson1\lseeson1\obj\Debug\net8.0\lseeson1.pdb
+H:\c#\leeson1\lseeson1\lseeson1\obj\Debug\net8.0\lseeson1.genruntimeconfig.cache
+H:\c#\leeson1\lseeson1\lseeson1\obj\Debug\net8.0\ref\lseeson1.dll
