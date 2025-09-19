@@ -1,0 +1,2 @@
+D:\אסתי סטפנסקי\ls2\obj\Debug\ls2.csproj.AssemblyReference.cache
+D:\אסתי סטפנסקי\ls2\obj\Debug\ls2.csproj.CoreCompileInputs.cache
